@@ -4,3 +4,4 @@ __pycache__/
 
 data/*
 !data/armensteuer_and_similars.01.parquet
+!data/armenpflege.01.csv
