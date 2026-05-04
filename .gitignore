@@ -6,6 +6,7 @@ data/*
 !data/armensteuer_and_similars.01.parquet
 !data/armensteuer_and_similars.raw.csv
 !data/armensteuer_and_similars.filtered.csv
+!data/armensteuer_and_similars.filtered.parquet
 !data/armensteuer_and_similars.filtered.lemmas.parquet
 !data/armensteuer_and_similars.filtered.tokens.parquet
 !data/armenpflege.01.csv
