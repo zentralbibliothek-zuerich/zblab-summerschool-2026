@@ -1,6 +1,8 @@
 .venv/
 __pycache__/
 .env
+*.code-workspace
+.python-version
 
 data/*
 !data/armensteuer_and_similars.01.parquet
@@ -9,4 +11,6 @@ data/*
 !data/armensteuer_and_similars.filtered.parquet
 !data/armensteuer_and_similars.filtered.lemmas.parquet
 !data/armensteuer_and_similars.filtered.tokens.parquet
+!data/armensteuer_and_similars.filtered.sentences.parquet
+!data/armensteuer_and_similars.filtered.pseudo_paragraphs.csv
 !data/armenpflege.01.csv
