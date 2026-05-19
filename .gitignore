@@ -15,5 +15,14 @@ data/*
 !data/armensteuer_and_similars.filtered.pseudo_paragraphs.csv
 !data/armenpflege.01.csv
 
+!data/armenpflege.long.parquet
+!data/armenpflege.filtered.parquet
+!data/armenpflege.filtered.tokens.parquet
+!data/armenpflege.filtered.lemmas.parquet
+!data/armenpflege.filtered.sentences.parquet
+!data/armenpflege.word_vectors
+
 !data/armenpflege.filtered.pp.csv
 !data/armenpflege.filtered.pp.label.niclas.csv
+!data/armenpflege.filtered.pp.label.elias.csv
+!data/armenpflege.filtered.pp.label.llm.csv
