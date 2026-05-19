@@ -1,4 +1,6 @@
-# zB Summer School 2026
+# <img src="https://www.zb.uzh.ch/themes/zb/assets/images/favicon-192.png" alt="💾" width=20> ZB-Lab Summer School 2026
+
+⚒️ *This repository is under construction!*
 
 | Module | Colab **Adjust once in definite repo!** | Description |
 |-|-|-|
