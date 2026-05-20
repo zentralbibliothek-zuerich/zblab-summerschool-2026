@@ -3,6 +3,8 @@ __pycache__/
 .env
 *.code-workspace
 .python-version
+.github/
+AGENTS.md
 
 data/*
 !data/armensteuer_and_similars.01.parquet
