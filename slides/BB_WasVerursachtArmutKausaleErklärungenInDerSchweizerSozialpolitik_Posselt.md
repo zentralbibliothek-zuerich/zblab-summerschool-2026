@@ -1,0 +1,1 @@
+Die Folien zum Abendvortrag "[Was verursacht Armut? Kausale Erklärungen in der Schweizer Sozialpolitik (1810-1980)](https://www.zb.uzh.ch/de/events/was-verursacht-armut-kausale-erklaerungen-in-der-schweizer-sozialpolitik-1810-1980?date=1203)" sind auf Anfrage beim Dozierenden (lukas.posselt{at}uni-goettingen.de) oder beim ZB-Lab (lab{at}zb.uzh.ch) erhältlich.

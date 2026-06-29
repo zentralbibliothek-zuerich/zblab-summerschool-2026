@@ -1,0 +1,1 @@
+Die Folien zum Modul "Machine Learning und Mixed Methods - Ein Beispiel aus der Forschungspraxis" sind auf Anfrage beim Dozierenden (lukas.posselt{at}uni-goettingen.de) oder beim ZB-Lab (lab{at}zb.uzh.ch) erhältlich.
