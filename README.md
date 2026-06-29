@@ -2,6 +2,8 @@
 
 <img src="assets/banner.jpg" alt="Decorative banner image showing code and sediments">
 
+⚠️ This repository is stale. For adjustments after the summer school, please consult the repository on [GitLab](https://gitlab.uzh.ch/zentralbibliothek-zuerich/zb-lab/summer-school/summer-school-2026).
+
 |  | Topic    | Link                                                                                                                                                                                                                                                                  | Description                                                  |
 | ------ | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 01     | Data Sourcing    | <a target="_blank" href="https://colab.research.google.com/github/zentralbibliothek-zuerich/zblab-summerschool-2026/blob/main/notebooks/01_data_sourcing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>         | Download all impresso texts from your query.                  |
